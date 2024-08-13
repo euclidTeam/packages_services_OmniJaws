@@ -18,6 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="owm_api_key" translatable="false" >049b1ff10ca842e0cc2770679e8ad986</string>
-    <string name="owm_api_key_1" translatable="false" ></string>
-    <string name="owm_api_key_2" translatable="false" ></string>
+    <string name="owm_api_key_1" translatable="false" >63c39c0f2957a57ddce9a4ee0bfc47ab</string>
+    <string name="owm_api_key_2" translatable="false" >52f5164def7be68e5531f43530e1e73e</string>
 </resources>
