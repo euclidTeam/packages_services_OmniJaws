@@ -44,9 +44,9 @@ public abstract class AbstractWeatherProvider {
     protected Context mContext;
     private static final SimpleDateFormat dayFormat = new SimpleDateFormat("yyyy-MM-dd", Locale.US);
     private static final String URL_PLACES =
-            "https://secure.geonames.org/searchJSON?name_startsWith=%s&lang=%s&username=omnijaws&maxRows=20";
+            "https://secure.geonames.org/searchJSON?name_startsWith=%s&lang=%s&username=shuttercat&maxRows=20";
     private static final String URL_LOCALITY =
-            "https://secure.geonames.org/extendedFindNearbyJSON?lat=%f&lng=%f&lang=%s&username=omnijaws";
+            "https://secure.geonames.org/extendedFindNearbyJSON?lat=%f&lng=%f&lang=%s&username=shuttercat";
     protected static final String PART_COORDINATES =
             "lat=%f&lon=%f";
 
